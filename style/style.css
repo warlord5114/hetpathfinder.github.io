@@ -9,13 +9,13 @@
 }
 
 :root {
-    --clr-navy: #1c4e81;
+    --clr-navy: #34495e;
     --primary-clr: #6563ff;
-    --secondary-clr: #7473b3;
-    --light-line: #e2e2e2;
+    --secondary-clr: #c4c3fc;
+    --light-line: #e4e2ed;
     --cell-width : 22px;
-    --light-text: #7a7788;
-    --light-dot: #9590b0;
+    --light-text: #686673;
+    --light-dot: #adaac0;
 }
 
 body {
@@ -44,7 +44,7 @@ body {
 }
 .tutorial-toggle{
     width: 30px;
-    background: url(../assests/icon/flask.svg);
+    background: url(../assets/icon/flask.svg);
     border: 1px solid var(--light-line);
     aspect-ratio: 1;
     border-radius: 5px;    
@@ -102,16 +102,16 @@ body {
     color: var(--primary-clr);
 }
 .slide:nth-child(1){
-    background: url(../assests/tutorial/man-thinking.svg);
+    background: url(../assets/tutorial/man-thinking.svg);
 }
 .slide:nth-child(2){
-    background: url(../assests/tutorial/man-with-maze.svg);
+    background: url(../assets/tutorial/man-with-maze.svg);
 }
 .default-bg{
-    background: url(../assests/tutorial/bg-2.svg);
+    background: url(../assets/tutorial/bg-2.svg);
 }
 .slide:last-child{
-    background: url(../assests/tutorial/man-clicking-visualize.svg);
+    background: url(../assets/tutorial/man-clicking-visualize.svg);
     background-size: 60% 60% !important;
 }
 .upper .slide{
