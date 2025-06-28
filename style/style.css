@@ -44,7 +44,7 @@ body {
 }
 .tutorial-toggle{
     width: 30px;
-    background: url(/assests/icon/flask.svg);
+    background: url(../assests/icon/flask.svg);
     border: 1px solid var(--light-line);
     aspect-ratio: 1;
     border-radius: 5px;    
@@ -102,16 +102,16 @@ body {
     color: var(--primary-clr);
 }
 .slide:nth-child(1){
-    background: url(/assests/tutorial/man-thinking.svg);
+    background: url(../assests/tutorial/man-thinking.svg);
 }
 .slide:nth-child(2){
-    background: url(/assests/tutorial/man-with-maze.svg);
+    background: url(../assests/tutorial/man-with-maze.svg);
 }
 .default-bg{
-    background: url(/assests/tutorial/bg-2.svg);
+    background: url(../assests/tutorial/bg-2.svg);
 }
 .slide:last-child{
-    background: url(/assests/tutorial/man-clicking-visualize.svg);
+    background: url(../assests/tutorial/man-clicking-visualize.svg);
     background-size: 60% 60% !important;
 }
 .upper .slide{
