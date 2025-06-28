@@ -1,6 +1,6 @@
 
 :root {
-    --wall-clr : #125676; /* Darker, desaturated blue */
+    --wall-clr : #0c3447; /* Darker, desaturated blue */
     --visited-clr : #aed581; /* Soft green */
     --path-clr : #ffab40; /* Warm orange */
     --default-bg: #e0f7fa; /* Body background color, matching with style.css */
@@ -52,10 +52,10 @@ span.carret{
 }
 
 .source{
-    background: url(../assests/icon/source.svg);
+    background: url(../assets/icon/source.svg);
 }
 .target{
-    background: url(../assests/icon/target.svg);
+    background: url(../assets/icon/target.svg);
 }
 
 /* =================== animations =================== */
